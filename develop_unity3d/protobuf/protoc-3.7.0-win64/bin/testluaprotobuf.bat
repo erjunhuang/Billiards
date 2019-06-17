@@ -1,0 +1,1 @@
+protoc.exe -o ./testluaprotobuf.pb testluaprotobuf.proto
